@@ -1,2 +1,3 @@
 # practicestuff
-fr just some trainings i did for interactive menus, and stuff i did to annoy some friends
+fr just some trainings i did for interactive menus, and stuff i did to annoy some friends.
+all of it runs on python, vscode. thats all u need. byee
